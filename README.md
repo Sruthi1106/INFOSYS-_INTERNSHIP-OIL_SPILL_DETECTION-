@@ -9,7 +9,7 @@ The work has been structured into milestones for clarity and systematic progress
 
 
 
-## 📌 Milestone 1: Data Collection & Preprocessing
+##  Milestone 1: Data Collection & Preprocessing
 
 ### Objectives
 
@@ -47,7 +47,7 @@ The work has been structured into milestones for clarity and systematic progress
 
 ---
 
-## 📌 Milestone 2: Model Development, Training & Evaluation
+##  Milestone 2: Model Development, Training & Evaluation
 
 ### Objectives
 
