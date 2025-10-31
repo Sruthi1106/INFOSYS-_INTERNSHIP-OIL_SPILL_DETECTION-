@@ -14,6 +14,17 @@ import pandas as pd
 import base64
 import io
 
+
+
+import gdown
+import os
+
+# ✅ Download model file from Google Drive if not found
+if not os.path.exists("unet_oilspill_final.h5"):
+    url = "https://drive.google.com/uc?id=1ry_tkkg0ldGTKNUPhgIkHaLXD3Gli5Ai"
+    output = "unet_oilspill_final.h5"
+    gdown.download(url, output, quiet=False)
+
 # ------------------------------------------------------------
 # PAGE CONFIGURATION
 # ------------------------------------------------------------
