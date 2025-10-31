@@ -1,6 +1,5 @@
 # INFOSYS-INTERNSHIP-OIL_SPILL_DETECTION-
 
-
 # 🌊 **AquaVision – AI-Powered Oil Spill Detection System**
 
 > *“Safeguarding our oceans through intelligent satellite-based oil spill monitoring.”*
