@@ -100,6 +100,7 @@ Develop an AI-powered oil spill detection system using deep learning and satelli
 * Standardized all images to **256×256** resolution.
 * Normalized and enhanced images with **SAR-specific preprocessing** (e.g., speckle noise reduction).
 * Applied **Albumentations** for augmentation: flips, rotations, brightness, and contrast shifts.
+<img width="711" height="361" alt="Screenshot 2025-10-31 132346" src="https://github.com/user-attachments/assets/d341810c-4888-44ba-b323-d809be58b1ec" />
 
 ---
 
@@ -127,6 +128,9 @@ Develop an AI-powered oil spill detection system using deep learning and satelli
   * ✅ **Precision/Recall:** ~96%
 * Real-time validation and monitored metric graphs for loss, accuracy, IoU, and Dice.
 
+<img width="513" height="808" alt="Screenshot 2025-10-31 132222" src="https://github.com/user-attachments/assets/ee3c8931-e292-41c4-9364-6734cf1ce8e8" />
+<img width="515" height="806" alt="Screenshot 2025-10-31 132210" src="https://github.com/user-attachments/assets/c067ca4b-6e7e-4f35-b858-60235e8872dc" />
+
 ---
 
 ### 🔹 **Module 5: Visualization of Results**
@@ -134,7 +138,9 @@ Develop an AI-powered oil spill detection system using deep learning and satelli
 * Displayed **side-by-side comparisons** of input, ground truth, and predicted masks.
 * Generated **overlay maps** (red = detected spill).
 * Created **confidence heatmaps** and confusion matrices.
-* Visualized **best vs worst segmentations** for quality analysis.
+<img width="730" height="820" alt="Screenshot 2025-10-31 132239" src="https://github.com/user-attachments/assets/8bb577f6-2250-41f7-becf-75804cfe32f8" />
+
+<img width="1281" height="433" alt="Screenshot 2025-10-31 132317" src="https://github.com/user-attachments/assets/eb59378e-3193-4f38-bb8c-0c228038e429" />
 
 ---
 
@@ -233,6 +239,29 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## **Web Interface**
+## What is AquaVision
+## Home Page
+
+<img width="1906" height="960" alt="Screenshot 2025-10-31 120842" src="https://github.com/user-attachments/assets/a868ba4c-e649-4684-8745-f3d596cb04ed" />
+
+## Upload images for evaluation
+
+<img width="1901" height="964" alt="Screenshot 2025-10-31 121756" src="https://github.com/user-attachments/assets/a9271e2b-b361-4d07-909f-01a9e1bc5f5d" />
+
+## Outputs
+
+<img width="1885" height="837" alt="Screenshot 2025-10-31 121825" src="https://github.com/user-attachments/assets/27c2163b-4c15-479c-970e-768e575f8b19" />
+
+## Metrics Dashboard
+
+<img width="1439" height="491" alt="Screenshot 2025-10-31 121846" src="https://github.com/user-attachments/assets/47243994-9c3c-4b02-a877-82f435b2cfd4" />
+
+
+## Detection History and Smart Assisstant for knowing about app
+
+<img width="1406" height="714" alt="Screenshot 2025-10-31 121901" src="https://github.com/user-attachments/assets/e712c7b5-e0a9-41fc-9e33-567e8e9d8362" />
+
 ---
 
 ## 💬 **About the Developer**
@@ -249,7 +278,7 @@ AI & ML Enthusiast | B.Tech Student at Anurag University
 ##  **Acknowledgment**
 
 > Developed as part of the **Infosys Springboard Internship** under mentorship and guidance from **Ekshitha Namala**.
-> Special thanks to the **Ekshitha Namala **.
+> Special thanks to the **Ekshitha Namala**.
 
 ---
 
