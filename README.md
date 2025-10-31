@@ -1,9 +1,5 @@
 # INFOSYS-INTERNSHIP-OIL_SPILL_DETECTION-
-Perfect 🌊
-Here’s a **complete, professional, and standout `README.md`** for your GitHub project **AquaVision**, modeled after your reference file but fully rewritten for your app and your work.
-You can **copy-paste this directly** into your GitHub repository.
 
----
 
 # 🌊 **AquaVision – AI-Powered Oil Spill Detection System**
 
