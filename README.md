@@ -21,7 +21,71 @@ It leverages **deep learning (U-Net)** and **satellite imagery** to detect, segm
 
 Oil spills cause irreparable damage to marine ecosystems and coastal regions. AquaVision provides a **fast, reliable, and automated solution** to identify and visualize spills — helping researchers and authorities take immediate action.
 
+Why This Matters
+Oil spills pose severe threats to:
+
+🐋 Marine Ecosystems - Devastating impact on aquatic life
+
+🏖️ Coastal Regions - Contamination of beaches and shorelines
+
+💰 Local Economies - Damage to fishing and tourism industries
+
+🌍 Global Environment - Long-term ecological consequences 
+
+Traditional detection methods are slow, labor-intensive, and often delayed. HydroVexel provides instant, accurate detection to enable immediate intervention.
+
 ---
+## 🚨 Problem Statement
+
+Oil spills pose a severe threat to marine ecosystems, coastal regions, and local economies.
+Traditional detection methods — such as manual inspection of satellite images or physical patrolling — are:
+
+⏰ Time-consuming: Hours to days for analysis
+
+👷 Labor-intensive: Requires expert human inspection
+
+🐌 Often delayed: Causes loss of critical response time
+
+💡 Solution:
+Develop an AI-powered oil spill detection system using deep learning and satellite imagery to automatically identify and localize oil spills with high accuracy, enabling early intervention and faster emergency response.
+
+## ✨ Key Features
+🎯 Core Capabilities
+
+⚡ Real-time Oil Spill Detection — Upload satellite or aerial images and get instant results
+
+🎯 High Accuracy Segmentation — Achieves 94.57% accuracy with U-Net + Attention architecture
+
+🔥 Confidence Mapping — Generates visual heatmaps showing detection confidence levels
+
+🖼 Multi-format Support — Works with .JPG, .JPEG, .PNG satellite imagery
+
+☁️ Cloud Integration — Optional saving to Supabase or local database for storage
+
+🕒 Historical Analysis — View and track past detections with date-based filtering
+
+## 🖥️ User Interface
+
+🧭 Interactive Web Application — Built using Streamlit
+
+🌊 Beautiful Ocean Theme — Inspired by marine environments with a glassmorphism UI
+
+🔍 Real-time Visualization — Displays overlays, binary masks, and confidence heatmaps
+
+📤 Export Options — Download predictions as PNG, metrics as CSV or JSON
+
+📱 Responsive Design — Works seamlessly across desktop and mobile
+
+## 📊 Analytics & Reporting
+
+📈 Detection Metrics — Shows coverage %, confidence, pixel statistics
+
+🖼 Image Gallery — View all processed images with filters and sorting
+
+🗃 Database Dashboard — Summarizes detection trends and overall accuracy
+
+📂 Export Options — Full data export for external analysis and documentation
+
 
 ## 🧩 **Project Workflow**
 
@@ -188,7 +252,7 @@ AI & ML Enthusiast | B.Tech Student at Anurag University
 
 ##  **Acknowledgment**
 
-> Developed as part of the **Infosys Springboard Internship ** under mentorship and guidance from **Ekshitha Namala**.
+> Developed as part of the **Infosys Springboard Internship** under mentorship and guidance from **Ekshitha Namala**.
 > Special thanks to the **Ekshitha Namala **.
 
 ---
